@@ -1,27 +1,47 @@
-# Andr&eacute;s Barrera Garavito 
-## Profile
-### Senior Software Enginner and Software Architect
+# Hi there! I'm Andrés Barrera Garavito 👋
 
-I'm a Senior Software Enginner and Software Architect with more of 20 years of development experience, with knowledge in object programming oriented languajes, software design principles, software desingn patters
+### 🏛️ Principal Software Architect | Strategic Tech Leader | AI Adopter
 
-## Tools and Languajes
+Based in **Bogotá, Colombia**, I have over **20 years of experience** bridging the gap between Business Strategy and Technical Implementation. My journey has taken me from Mainframes to the era of **Generative AI**, always focused on designing scalable, sustainable, and high-value solutions.
 
-### Programming Languajes
+Currently, I lead strategic initiatives at **Mercado Libre**, applying AI and Modern Architecture to solve complex challenges.
 
-Languaje | Years of Experience | Level
---- | --- | ---
-Java | 20+ | Expert
-C# | 5 | Expert
+---
 
-### Frameworks
+### 🚀 Technical Vision & Expertise
 
-Framework | Years of Experience | Level
---- | --- | ---
-Angular | 2 | Beginner
-JEE | 15 | Expert
-Spring Boot | 2 | Beginner
-.net Core | 6 | Expert 
-<!---
-aabg1980/aabg1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I don't just write code; I design ecosystems. My focus is on **Domain-Driven Design (DDD)**, **Cloud Native Architectures**, and **C4 Modeling**.
+
+#### 🛠️ Languages & Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### ☁️ Cloud & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1F8CD0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabg1980&show_icons=true&theme=radical&hide_border=true" alt="Andrés Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabg1980&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+*   💼 **LinkedIn:** [Andrés Barrera Garavito](https://www.linkedin.com/in/tu-usuario/)
+*   📧 **Email:** [andres@ambarcomunicaciones,com]
