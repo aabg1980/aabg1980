@@ -31,14 +31,6 @@ I don't just write code; I design ecosystems. My focus is on **Domain-Driven Des
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabg1980&show_icons=true&theme=radical&hide_border=true" alt="Andrés Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabg1980&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect
