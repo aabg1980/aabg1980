@@ -36,4 +36,4 @@ I don't just write code; I design ecosystems. My focus is on **Domain-Driven Des
 ### 🤝 Let's Connect
 
 *   💼 **LinkedIn:** [Andrés Barrera Garavito](https://www.linkedin.com/in/tu-usuario/)
-*   📧 **Email:** [andres@ambarcomunicaciones,com]
+*   📧 **Email:** andres@ambarcomunicaciones.com
